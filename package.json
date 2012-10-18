@@ -1,0 +1,22 @@
+{
+  "name": "test-node-ldapjs",
+  "version": "0.0.1",
+  "description": "A simple node ldapjs test with server and client",
+  "main": "server.js",
+  "dependencies": {
+    "ldapjs": "~0.5.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/walm/test-node-ldapjs.git"
+  },
+  "keywords": [
+    "ldapjs"
+  ],
+  "author": "Andreas Wålm <andreas@walm.net>"
+}
